@@ -53,9 +53,7 @@ Este proyecto no requiere ninguna instalación de dependencias externa. Simpleme
 
 ## ✒️ Autor
 
-   **Danly MAgaña Banda** - [Enlace a tu perfil de GitHub, LinkedIn o portafolio]
-
------
+   **Danly MAgaña Banda** - https://github.com/dmagan90
 
 ## 📄 Licencia
 
